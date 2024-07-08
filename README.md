@@ -48,11 +48,16 @@ To install the Image Link Extractor extension in unpacked mode:
 
 5. If popup is disabled, clicking the extension icon will directly copy links to clipboard.
 
-## Support
+## Support Me
 
-If you find this extension useful, consider supporting the developer:
+If you find this application useful, consider supporting me:
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/milky99)
+
+I'm a refugee in the United States and in desperate need of money so every $ will help
+
+Your support means everything to me!
+
 
 ## Contributing
 
