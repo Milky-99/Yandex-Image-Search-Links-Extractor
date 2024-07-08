@@ -1,8 +1,11 @@
 # Yandex Image Link Extractor
 
 Yandex Image Link Extractor is a browser extension that allows you to easily extract and copy image links from web pages. It's designed to work with both Google Chrome and Microsoft Edge.
-![Carmen Electra Search](1.png)
-![Wide Putin Search](2.png)
+![Carmen Electra Search](2.png)
+
+
+
+
 ## Features
 
 - Extract image links from web pages with a single click
@@ -30,6 +33,8 @@ To install the Image Link Extractor extension in unpacked mode:
 6. Browse to the directory where you saved the extension files and select the folder.
 
 7. The Image Link Extractor extension should now be installed and visible in your browser's toolbar.
+   
+![Wide Putin Search](1.png)
 
 ## Usage
 
